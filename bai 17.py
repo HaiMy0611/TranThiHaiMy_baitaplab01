@@ -1,0 +1,7 @@
+x= int(input("Nhap so nguyen a: "))
+y= int(input("Nhap so nguyen b: "))
+z= int(input("Nhap so nguyen c: "))
+max= max(x,y,z)
+min= min(x,y,z)
+print("Gia tri lon nhat la: ",max)
+print("Gia tri nho nhat la: ",min)
